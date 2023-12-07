@@ -1,0 +1,76 @@
+
+
+.container-fluid {
+    position: absolute;
+    background-image: url(./images/backgroundtexture.png);
+    background-color: #097934;
+    z-index: -111;
+}
+
+.haha {
+    font-size: 12px;
+    position: absolute;
+    left: 550px;
+    top: 87px;
+    font-weight: bold;
+    color: black;
+    z-index: 999999;
+}
+
+.txt {
+    padding-left: 60px;
+    padding-top: 30px;
+    position: absolute;
+    z-index: 999999;
+}
+
+.txt h1 {
+    color: #eab863;
+}
+.txt p {
+    color: white;
+}
+
+.hand {
+    z-index: 999;
+    padding-top: 20px;
+}
+.grass1 {
+    height: 240px;
+    z-index: 999;
+    position: absolute;
+    top: 320px;
+
+}
+.grass2 {
+    height: 240px;
+    z-index: 999;
+    position: absolute;
+    top: 340px;
+}
+
+
+.handgrass {
+    position: absolute;
+    top: 280px;
+}
+
+.moon {
+    padding-left: 10px;
+    position: absolute;
+    top: 20px;
+    z-index: -1;
+}
+
+.cloud {
+    z-index: -1;
+    position: absolute;
+    top: 10px;
+}
+
+.cloud2 {
+    z-index: -1;
+    position: absolute;
+    top: 10px;
+    padding-left: 600px;
+}
